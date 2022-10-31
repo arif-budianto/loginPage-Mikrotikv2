@@ -1,0 +1,14 @@
+{
+    "name": "-",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "scss": "sass --watch sass:assets/css --style=compressed"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "^5.2.2"
+    }
+}
